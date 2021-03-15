@@ -4,3 +4,4 @@ exclude_patterns:
 - react-builds/
 - react_ujs/dist/
 - test/
+sdd
